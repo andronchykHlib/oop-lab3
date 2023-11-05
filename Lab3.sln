@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3 - exceptions", "Lab3 - exceptions\Lab3 - exceptions.csproj", "{0D96A1DD-4BBB-44AE-9627-B10385692395}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3 - images", "Lab3 - images\Lab3 - images.csproj", "{B7E91137-D3B2-47C4-8AA0-55AE66CC16F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D96A1DD-4BBB-44AE-9627-B10385692395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D96A1DD-4BBB-44AE-9627-B10385692395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D96A1DD-4BBB-44AE-9627-B10385692395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D96A1DD-4BBB-44AE-9627-B10385692395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E91137-D3B2-47C4-8AA0-55AE66CC16F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E91137-D3B2-47C4-8AA0-55AE66CC16F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E91137-D3B2-47C4-8AA0-55AE66CC16F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E91137-D3B2-47C4-8AA0-55AE66CC16F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

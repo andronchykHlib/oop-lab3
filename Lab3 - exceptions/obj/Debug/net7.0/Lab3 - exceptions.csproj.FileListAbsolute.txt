@@ -1,0 +1,15 @@
+D:\univ\OOP\Lab3\Lab3 - exceptions\bin\Debug\net7.0\Lab3 - exceptions.exe
+D:\univ\OOP\Lab3\Lab3 - exceptions\bin\Debug\net7.0\Lab3 - exceptions.deps.json
+D:\univ\OOP\Lab3\Lab3 - exceptions\bin\Debug\net7.0\Lab3 - exceptions.runtimeconfig.json
+D:\univ\OOP\Lab3\Lab3 - exceptions\bin\Debug\net7.0\Lab3 - exceptions.dll
+D:\univ\OOP\Lab3\Lab3 - exceptions\bin\Debug\net7.0\Lab3 - exceptions.pdb
+D:\univ\OOP\Lab3\Lab3 - exceptions\obj\Debug\net7.0\Lab3 - exceptions.csproj.AssemblyReference.cache
+D:\univ\OOP\Lab3\Lab3 - exceptions\obj\Debug\net7.0\Lab3 - exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\univ\OOP\Lab3\Lab3 - exceptions\obj\Debug\net7.0\Lab3 - exceptions.AssemblyInfoInputs.cache
+D:\univ\OOP\Lab3\Lab3 - exceptions\obj\Debug\net7.0\Lab3 - exceptions.AssemblyInfo.cs
+D:\univ\OOP\Lab3\Lab3 - exceptions\obj\Debug\net7.0\Lab3 - exceptions.csproj.CoreCompileInputs.cache
+D:\univ\OOP\Lab3\Lab3 - exceptions\obj\Debug\net7.0\Lab3 - exceptions.dll
+D:\univ\OOP\Lab3\Lab3 - exceptions\obj\Debug\net7.0\refint\Lab3 - exceptions.dll
+D:\univ\OOP\Lab3\Lab3 - exceptions\obj\Debug\net7.0\Lab3 - exceptions.pdb
+D:\univ\OOP\Lab3\Lab3 - exceptions\obj\Debug\net7.0\Lab3 - exceptions.genruntimeconfig.cache
+D:\univ\OOP\Lab3\Lab3 - exceptions\obj\Debug\net7.0\ref\Lab3 - exceptions.dll

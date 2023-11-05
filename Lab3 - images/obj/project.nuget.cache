@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S2grDxM5po59yaaK0t7FszVwBnyUzxmJIcgOx0T0CWZOdRt4H7HFnGTW5GQBl76PrcAj/APxnVTIDMrmkW4TsQ==",
+  "success": true,
+  "projectFilePath": "D:\\univ\\OOP\\Lab3\\Lab3 - images\\Lab3 - images.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cryac\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0-rc.2.23479.6\\microsoft.win32.systemevents.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\cryac\\.nuget\\packages\\system.drawing.common\\8.0.0-rc.2.23479.14\\system.drawing.common.8.0.0-rc.2.23479.14.nupkg.sha512"
+  ],
+  "logs": []
+}

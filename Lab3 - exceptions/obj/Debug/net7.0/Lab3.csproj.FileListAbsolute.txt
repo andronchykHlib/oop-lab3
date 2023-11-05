@@ -1,0 +1,15 @@
+D:\univ\OOP\Lab3\Lab3\bin\Debug\net7.0\Lab3.exe
+D:\univ\OOP\Lab3\Lab3\bin\Debug\net7.0\Lab3.deps.json
+D:\univ\OOP\Lab3\Lab3\bin\Debug\net7.0\Lab3.runtimeconfig.json
+D:\univ\OOP\Lab3\Lab3\bin\Debug\net7.0\Lab3.dll
+D:\univ\OOP\Lab3\Lab3\bin\Debug\net7.0\Lab3.pdb
+D:\univ\OOP\Lab3\Lab3\obj\Debug\net7.0\Lab3.csproj.AssemblyReference.cache
+D:\univ\OOP\Lab3\Lab3\obj\Debug\net7.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\univ\OOP\Lab3\Lab3\obj\Debug\net7.0\Lab3.AssemblyInfoInputs.cache
+D:\univ\OOP\Lab3\Lab3\obj\Debug\net7.0\Lab3.AssemblyInfo.cs
+D:\univ\OOP\Lab3\Lab3\obj\Debug\net7.0\Lab3.csproj.CoreCompileInputs.cache
+D:\univ\OOP\Lab3\Lab3\obj\Debug\net7.0\Lab3.dll
+D:\univ\OOP\Lab3\Lab3\obj\Debug\net7.0\refint\Lab3.dll
+D:\univ\OOP\Lab3\Lab3\obj\Debug\net7.0\Lab3.pdb
+D:\univ\OOP\Lab3\Lab3\obj\Debug\net7.0\Lab3.genruntimeconfig.cache
+D:\univ\OOP\Lab3\Lab3\obj\Debug\net7.0\ref\Lab3.dll
