@@ -1,6 +1,4 @@
-﻿using System.Drawing;
-using System.Text.RegularExpressions;
-using System.Windows.Forms;
+﻿using System.Text.RegularExpressions;
 
 string imagesFolder = "../../../images";
 
@@ -18,7 +16,7 @@ foreach (var fileName in fileNames)
             Console.WriteLine(fileName);
             string fileNameNoExtension = Regex.Replace(fileName, @"\.\w+$", "");
             Bitmap image = new Bitmap(fileName);
-            image.RotateFlip(RotateFlipType.Rotate180FlipX);
+            image.RotateFlip(RotateFlipType.Rotate180FlipY);
             image.Save($"{fileNameNoExtension}-mirrored.gif");
         }
         catch (Exception e)

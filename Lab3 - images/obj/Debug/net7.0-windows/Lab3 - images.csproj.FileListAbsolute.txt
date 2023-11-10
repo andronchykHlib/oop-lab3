@@ -1,0 +1,20 @@
+D:\univ\OOP\Lab3\Lab3 - images\bin\Debug\net7.0-windows\Lab3 - images.exe
+D:\univ\OOP\Lab3\Lab3 - images\bin\Debug\net7.0-windows\Lab3 - images.deps.json
+D:\univ\OOP\Lab3\Lab3 - images\bin\Debug\net7.0-windows\Lab3 - images.runtimeconfig.json
+D:\univ\OOP\Lab3\Lab3 - images\bin\Debug\net7.0-windows\Lab3 - images.dll
+D:\univ\OOP\Lab3\Lab3 - images\bin\Debug\net7.0-windows\Lab3 - images.pdb
+D:\univ\OOP\Lab3\Lab3 - images\bin\Debug\net7.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\univ\OOP\Lab3\Lab3 - images\bin\Debug\net7.0-windows\System.Drawing.Common.dll
+D:\univ\OOP\Lab3\Lab3 - images\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\univ\OOP\Lab3\Lab3 - images\obj\Debug\net7.0-windows\Lab3 - images.csproj.AssemblyReference.cache
+D:\univ\OOP\Lab3\Lab3 - images\obj\Debug\net7.0-windows\Lab3 - images.csproj.ResolveComReference.cache
+D:\univ\OOP\Lab3\Lab3 - images\obj\Debug\net7.0-windows\Lab3 - images.GeneratedMSBuildEditorConfig.editorconfig
+D:\univ\OOP\Lab3\Lab3 - images\obj\Debug\net7.0-windows\Lab3 - images.AssemblyInfoInputs.cache
+D:\univ\OOP\Lab3\Lab3 - images\obj\Debug\net7.0-windows\Lab3 - images.AssemblyInfo.cs
+D:\univ\OOP\Lab3\Lab3 - images\obj\Debug\net7.0-windows\Lab3 - images.csproj.CoreCompileInputs.cache
+D:\univ\OOP\Lab3\Lab3 - images\obj\Debug\net7.0-windows\Lab3 - images.csproj.CopyComplete
+D:\univ\OOP\Lab3\Lab3 - images\obj\Debug\net7.0-windows\Lab3 - images.dll
+D:\univ\OOP\Lab3\Lab3 - images\obj\Debug\net7.0-windows\refint\Lab3 - images.dll
+D:\univ\OOP\Lab3\Lab3 - images\obj\Debug\net7.0-windows\Lab3 - images.pdb
+D:\univ\OOP\Lab3\Lab3 - images\obj\Debug\net7.0-windows\Lab3 - images.genruntimeconfig.cache
+D:\univ\OOP\Lab3\Lab3 - images\obj\Debug\net7.0-windows\ref\Lab3 - images.dll
